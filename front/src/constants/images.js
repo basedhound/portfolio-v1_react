@@ -9,6 +9,8 @@ import node from "../assets/node.png";
 import email from "../assets/email.png";
 import mobile from "../assets/mobile.png";
 
+import england from "../assets/england.png";
+
 // eslint-disable-next-line
 export default {
   logo,
@@ -21,4 +23,6 @@ export default {
 
   email,
   mobile,
+
+  england
 };

@@ -10,7 +10,7 @@ import {
 const SocialMedia = () => {
   return (
     <div className="app__social">
-      <a href="https://linkedin.com/in/frank-vukeli%C4%87-660918225">
+      <a href="https://linkedin.com/in/frankvukelic">
         <BsLinkedin />
       </a>
       <a href="https://github.com/basedhound">

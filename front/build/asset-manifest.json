@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/static/css/main.65d1fa2b.css",
+    "main.js": "/static/js/main.3d7b407c.js",
+    "static/media/logo.png": "/static/media/logo.f88d2ec70db588b74d6f.png",
+    "static/media/about04.png": "/static/media/about04.fa7b3a72ed32b0e25bfb.png",
+    "static/media/about02.png": "/static/media/about02.7a3df03410ee756268ec.png",
+    "static/media/about01.png": "/static/media/about01.080509de05322b7aafda.png",
+    "static/media/cloud.png": "/static/media/cloud.cb3c69fcdf690553fc2a.png",
+    "static/media/about03.png": "/static/media/about03.c26c2547bb1a423cf283.png",
+    "static/media/spotify.png": "/static/media/spotify.2b5e9be1eb1ab501e7cd.png",
+    "static/media/nb.png": "/static/media/nb.98f3253e32cc67a4cb5e.png",
+    "static/media/profile.png": "/static/media/profile.1484487613710dedf750.png",
+    "static/media/asus.png": "/static/media/asus.514bc34955008a92e09f.png",
+    "static/media/adidas.png": "/static/media/adidas.83df8153294f9137d308.png",
+    "static/media/sass.png": "/static/media/sass.c5da83bb9ff45b84e0e7.png",
+    "static/media/bolt.png": "/static/media/bolt.64e7d9d30ece478ef3a0.png",
+    "static/media/redux.png": "/static/media/redux.c9be37e0fece29c624b0.png",
+    "static/media/graphql.png": "/static/media/graphql.aeaf34bbaeb405d851db.png",
+    "static/media/mongo.png": "/static/media/mongo.7a16fc61d457c9e340e2.png",
+    "static/media/cpp.png": "/static/media/cpp.9002a804bbfa0354d0b8.png",
+    "static/media/react.png": "/static/media/react.b37f0a4b7134b3c99d6e.png",
+    "static/media/amazon.png": "/static/media/amazon.0a8be1f53138b5c52456.png",
+    "static/media/mobile.png": "/static/media/mobile.145d9ce0157a56f8fcd8.png",
+    "static/media/html.png": "/static/media/html.397540dec969b31fd37c.png",
+    "static/media/css.png": "/static/media/css.57feb85c31eec0ff2e1a.png",
+    "static/media/email.png": "/static/media/email.37b9e890eea501421fbf.png",
+    "static/media/figma.png": "/static/media/figma.152e55329b6f1915967e.png",
+    "static/media/skype.png": "/static/media/skype.c8d7ee175da5b4c8a8ab.png",
+    "index.html": "/index.html",
+    "static/media/circle.svg": "/static/media/circle.134eeeb1e58895b892195fe8ed63bc9f.svg",
+    "main.65d1fa2b.css.map": "/static/css/main.65d1fa2b.css.map",
+    "main.3d7b407c.js.map": "/static/js/main.3d7b407c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.65d1fa2b.css",
+    "static/js/main.3d7b407c.js"
+  ]
+}

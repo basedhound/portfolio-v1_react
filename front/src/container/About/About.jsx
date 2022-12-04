@@ -18,16 +18,14 @@ const About = () => {
   const [abouts, setAbouts] = useState([]);
 
   useEffect(() => {
-    const query = '*[_type == "abouts"]';
+    const query = '*[_type == "abouts"] | order(_createdAt asc)';
 
     client.fetch(query).then((data) => setAbouts(data));
   }, []);
 
   return (
     <>
-      <h2 className="head-text">
-        I've got what you need      
-      </h2>
+      <h2 className="head-text">Services</h2>
 
       <div className="app__profiles">
         {abouts.map((about, index) => (
@@ -49,6 +47,10 @@ const About = () => {
       </div>
     </>
   );
-}; 
+};
 
-export default AppWrap(MotionWrap(About, "app__about"), 'about', "app__whitebg");
+export default AppWrap(
+  MotionWrap(About, "app__about"),
+  "services",
+  "app__whitebg"
+);

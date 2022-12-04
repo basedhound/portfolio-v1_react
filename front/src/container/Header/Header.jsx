@@ -1,5 +1,6 @@
 import React from "react";
 import { motion } from "framer-motion";
+import { Cursor, useTypewriter } from "react-simple-typewriter";
 import { AppWrap } from "../../wrapper";
 import { images } from "../../constants";
 import "./Header.scss";
@@ -10,15 +11,26 @@ const scaleVariants = {
     opacity: [0, 1],
     transition: {
       duration: 2.5,
-      delay:0.25,
+      delay:0,
       ease: "easeInOut",
     },
   },
 };
 
 const Header = () => {
+
+  const [text, count] = useTypewriter({
+    words: [
+      `Hello there`, 
+      `I'm Frank ;)`, 
+    ],
+    loop: true,
+    typeSpeed: 150,
+  });
+
+
   return (
-    <div id="home" className="app__header app__flex">
+    <div id="accueil" className="app__header app__flex">
       <motion.div
         whileInView={{opacity: [0, 1]}}
         transition={{ duration: 3, ease: "easeInOut" }}
@@ -26,13 +38,12 @@ const Header = () => {
         <div className="app__header-badge">
           <div className="badge-cmp app__flex">            
             <div>
-              <p className="p-text">Hello there, I'm</p>
-              <h1 className="head-text">Frank</h1>
+              <h1 className="head-text">{text} <Cursor cursorColor="light-gray"/></h1>
             </div>
           </div>
           <div className="tag-cmp app__flex">
-            <p className="p-text">Full Stack</p>
             <p className="p-text">Web Developer</p>
+            <p className="p-text">Full Stack</p>
           </div>
         </div>
       </motion.div>

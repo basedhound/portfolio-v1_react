@@ -1,14 +1,18 @@
 export default {
-  name: "works",
-  title: "Works",
+  name: "portfolio",
+  title: "Portfolio",
   type: "document",
   fields: [
+    {
+      name: "priority",
+      title: "Priority",
+      type: "number",
+    },
     {
       name: "title",
       title: "Title",
       type: "string",
     },
-
     {
       name: "description",
       title: "Description",
@@ -32,7 +36,6 @@ export default {
         hotspot: true,
       },
     },
-
     {
       name: "tags",
       title: "Tags",
