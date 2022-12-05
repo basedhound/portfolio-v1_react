@@ -39,10 +39,10 @@
       letter-spacing: 0.3rem;
       margin-right: 0.5rem;
       padding-left: 0.5rem;
-      border-top: 2px solid transparent;
+      border-top: 2.5px solid transparent;
       padding: 1rem;
       &:hover {
-        border-top: 2px solid var(--secondary-color);
+        border-top: 2.5px solid var(--secondary-color);
       }
     }
   }
@@ -206,7 +206,6 @@
     width: 90%;
     height: 90%;
     filter: grayscale(1);
-    transition: all 0.2s ease-in-out;
     margin-right: 0.45px;
   }
 
