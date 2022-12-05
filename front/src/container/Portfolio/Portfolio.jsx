@@ -65,6 +65,7 @@ const Work = () => {
 
               <motion.div
                 whileHover={{ opacity: [0, 1] }}
+                whileTap={{ opacity: [0, 1] }}
                 transition={{
                   duration: 0.25,
                   ease: "easeInOut",
