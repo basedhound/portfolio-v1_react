@@ -40,20 +40,19 @@
 
   li {
     margin: 0 1rem;
-    cursor: pointer;
     flex-direction: column;
-
+    
     a {
       color: var(--gray-color);
       text-decoration: none;
       flex-direction: column;
       text-transform: uppercase;
       font-weight: 500;
-      transition: all 0.3s ease-in-out;
       letter-spacing: 0.3rem;
       margin-right: 0.5rem;
       padding-left: 0.5rem;
       border-bottom: 1px solid transparent;
+      // transition: all 0.3s ease-in-out;
       &:hover {
         border-bottom: 1px solid var(--secondary-color);
       }
@@ -219,7 +218,7 @@
     width: 90%;
     height: 90%;
     filter: grayscale(1);
-    transition: all 0.3s ease-in-out;
+    transition: all 0.2s ease-in-out;
     margin-right: 0.45px;
   }
 

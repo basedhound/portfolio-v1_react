@@ -10,7 +10,7 @@ const scaleVariants = {
     scale: [0, 1],
     opacity: [0, 1],
     transition: {
-      duration: 2.5,
+      duration: 2,
       delay:0,
       ease: "easeInOut",
     },
