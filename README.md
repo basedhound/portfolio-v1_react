@@ -1,7 +1,3 @@
-
-
------------------------------
-
 <div align="center">
     <a href="portfolio-v1-fv.netlify.app" target="_blank">
       <img src="client/public/preview.webp" alt="Project Banner">
