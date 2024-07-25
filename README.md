@@ -14,7 +14,7 @@
 
 ##  <br /> <a name="introduction">✨ Introduction</a>
 
-**[EN]** 
+**[EN]** This repository includes the code for my personal portfolio website, built using React for dynamic UI components and Sanity as a headless CMS for flexible content management. The project also incorporates Framer Motion for smooth animations and Sass for maintainable styles. This portfolio demonstrates my skills in leveraging modern web technologies to create a dynamic and visually appealing online presence.
 
 **[FR]** 
 
@@ -24,9 +24,15 @@
 
 - **Framer Motion** is a React animation library designed for creating smooth, interactive animations and transitions. It simplifies complex animations with a straightforward API, supports gesture-based interactions, and offers physics-based animations for realistic motion effects.
 
-- Sanity 
+- **Sanity** is a headless CMS (Content Management System) that provides a flexible and powerful content platform. It offers real-time collaboration, a customizable content studio, and robust APIs for integrating content into various applications. Sanity is designed to handle structured content and supports complex data models, making it ideal for modern web and mobile applications.
 
-- Sass
+- **A "Headless CMS"** (Content Management System) is a back-end-only content management system that separates the content repository from the presentation layer. Unlike traditional CMS platforms, which are tightly coupled with the front end, a headless CMS provides content via APIs, allowing developers to deliver content across various platforms and devices. This decoupling offers greater flexibility and control over how content is presented, enabling seamless integration with different front-end technologies and ensuring a consistent user experience across multiple channels.
+
+- **Sass** is a powerful CSS preprocessor that extends the capabilities of CSS with features like variables, nested rules, mixins, and functions. It helps developers write more maintainable and modular stylesheets, making complex styles easier to manage and reuse across projects. Sass files are compiled into standard CSS before deployment.
+
+- **SCSS** is the syntax used by Sass that closely resembles traditional CSS. It supports all the features of CSS while adding the advanced capabilities of Sass, such as variables, nested rules, and mixins. SCSS files are also compiled into standard CSS, allowing for more dynamic and reusable styling.
+
+- **react-icons** is a library that provides a collection of popular icon sets as React components. It allows developers to easily incorporate scalable vector icons into their React projects, supporting various icon libraries like Font Awesome, Material Icons, and more. The icons can be customized in terms of size, color, and other styling properties directly through props.
 
 
 ## <br/> <a name="features">📝 Features</a>
