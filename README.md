@@ -93,7 +93,7 @@ yarn install
 
 <br/>**Set Up Environment Variables**
 
-Create a new file named `.env` in the **client** folder of your project and add the following content:
+Create a new file named `.env` in the **client folder** of your project and add the following content:
 
 ```env
 REACT_APP_SANITY_PROJECT_ID=
