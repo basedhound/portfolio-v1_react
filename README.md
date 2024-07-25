@@ -1,8 +1,8 @@
 <div align="center">
     <a href="https://portfolio-v1-fv.netlify.app" target="_blank">
-      <img src="client/public/preview.webp" alt="Project Banner">
+      <img src="/client/public/preview.webp" alt="Project Banner">
     </a>
-  <h3 align="center">Portfolio v1 - Unfinished</h3>
+  <h3 align="center">Portfolio v1</h3>
 </div>
 
 ##  <br /> 📋 <a name="table">Table of Contents</a>
