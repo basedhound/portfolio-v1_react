@@ -48,7 +48,6 @@
 👉 **Content Management**: Streamlined content updates and management using Sanity as a headless CMS.
 
 
-
 ## <br /> <a name="quick-start">🚀 Quick Start</a>
 
 Follow these steps to set up the project locally on your machine.
@@ -72,6 +71,21 @@ git clone {git remote URL}
 Let's install the project dependencies, from your terminal, run:
 
 ```bash
+# Navigate to the client directory
+cd client
+
+# Install the necessary dependencies for the client-side application
+npm install
+# or
+yarn install
+
+# Navigate back to the root directory
+cd ..
+
+# Navigate to the server directory
+cd server
+
+# Install the necessary dependencies for the server-side application
 npm install
 # or
 yarn install
@@ -79,11 +93,10 @@ yarn install
 
 <br/>**Set Up Environment Variables**
 
-Create a new file named `.env` in the client folder of your project and add the following content:
+Create a new file named `.env` in the **client** folder of your project and add the following content:
 
 ```env
 REACT_APP_SANITY_PROJECT_ID=
-
 REACT_APP_SANITY_TOKEN=
 ```
 
@@ -98,10 +111,25 @@ Replace the placeholder values with your actual respective account credentials:
 Installation will take a minute or two, but once that's done, you should be able to run the following command:
 
 ```bash
-npm run dev
+# Navigate to the client directory
+cd client
+
+# Start client
+npm start
 # or
-yarn dev
+yarn start
+
+# Navigate back to the root directory
+cd ..
+
+# Navigate to the server directory
+cd server
+
+# Start server
+npm start
+# or
+yarn start
 ```
 
-Open [`http://localhost:3000`](http://localhost:3000) in your browser to view the project.
-
+- Client running on [`http://localhost:3000`](http://localhost:3000)
+- Server running on [`http://localhost:3333`](http://localhost:3333)
