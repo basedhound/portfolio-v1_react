@@ -14,7 +14,7 @@
 
 ##  <br /> <a name="introduction">✨ Introduction</a>
 
-**[EN]** Portfolio website, built using React for dynamic UI components and Sanity as a headless CMS for flexible content management. The project also incorporates Framer Motion for smooth animations and Sass for maintainable styles. This portfolio demonstrates my skills in leveraging modern web technologies to create a dynamic and visually appealing online presence.
+**[EN]** Portfolio website built using React for dynamic UI components and Sanity as a headless CMS for flexible content management. The project also incorporates Framer Motion for smooth animations and Sass for maintainable styles. This portfolio demonstrates my skills in leveraging modern web technologies to create a dynamic and visually appealing online presence.
 
 **[FR]** Portfolio réalisé avec React pour des composants UI dynamiques et Sanity comme CMS headless pour une gestion de contenu flexible. Le projet utilise également Framer Motion pour des animations fluides et Sass pour des styles maintenables. Ce portfolio illustre mes compétences dans l’utilisation des technologies web modernes pour créer une présence en ligne dynamique et visuellement attrayante.
 
