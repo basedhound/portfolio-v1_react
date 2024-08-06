@@ -1,6 +1,6 @@
 <div align="center">
     <a href="https://portfolio-v1-fv.netlify.app" target="_blank">
-      <img src="/client/public/preview.webp" alt="Project Banner">
+      <img src="/client/public/design/preview.png" alt="Project Banner">
     </a>
   <h3 align="center">Portfolio v1</h3>
 </div>
@@ -20,19 +20,17 @@
 
 ##  <br /> <a name="tech-stack">⚙️ Tech Stack</a>
 
-- **React** is a popular JavaScript library for building user interfaces, particularly single-page applications where data changes over time. React's component-based architecture allows developers to create reusable UI components, making development more efficient and the codebase easier to maintain. 
+- [**React**](https://react.dev/reference/react) is a popular JavaScript library for building user interfaces, particularly single-page applications where data changes over time. React's component-based architecture allows developers to create reusable UI components, making development more efficient and the codebase easier to maintain. 
 
-- **Framer Motion** is a React animation library designed for creating smooth, interactive animations and transitions. It simplifies complex animations with a straightforward API, supports gesture-based interactions, and offers physics-based animations for realistic motion effects.
+- [**Framer Motion**](https://www.framer.com/motion/) is a React animation library designed for creating smooth, interactive animations and transitions. It simplifies complex animations with a straightforward API, supports gesture-based interactions, and offers physics-based animations for realistic motion effects.
 
-- **Sanity** is a headless CMS (Content Management System) that provides a flexible and powerful content platform. It offers real-time collaboration, a customizable content studio, and robust APIs for integrating content into various applications. Sanity is designed to handle structured content and supports complex data models, making it ideal for modern web and mobile applications.
+- [**Sanity**](https://www.sanity.io/docs) is a headless CMS (Content Management System) that provides a flexible and powerful content platform. It offers real-time collaboration, a customizable content studio, and robust APIs for integrating content into various applications. Sanity is designed to handle structured content and supports complex data models, making it ideal for modern web and mobile applications.
 
-- **A "Headless CMS"** (Content Management System) is a back-end-only content management system that separates the content repository from the presentation layer. Unlike traditional CMS platforms, which are tightly coupled with the front end, a headless CMS provides content via APIs, allowing developers to deliver content across various platforms and devices. This decoupling offers greater flexibility and control over how content is presented, enabling seamless integration with different front-end technologies and ensuring a consistent user experience across multiple channels.
+- [**Sass**](https://sass-lang.com/documentation/) is a powerful CSS preprocessor that extends the capabilities of CSS with features like variables, nested rules, mixins, and functions. It helps developers write more maintainable and modular stylesheets, making complex styles easier to manage and reuse across projects. Sass files are compiled into standard CSS before deployment.
 
-- **Sass** is a powerful CSS preprocessor that extends the capabilities of CSS with features like variables, nested rules, mixins, and functions. It helps developers write more maintainable and modular stylesheets, making complex styles easier to manage and reuse across projects. Sass files are compiled into standard CSS before deployment.
+- [**SCSS**](https://sass-lang.com/guide/) is the syntax used by Sass that closely resembles traditional CSS. It supports all the features of CSS while adding the advanced capabilities of Sass, such as variables, nested rules, and mixins. SCSS files are also compiled into standard CSS, allowing for more dynamic and reusable styling.
 
-- **SCSS** is the syntax used by Sass that closely resembles traditional CSS. It supports all the features of CSS while adding the advanced capabilities of Sass, such as variables, nested rules, and mixins. SCSS files are also compiled into standard CSS, allowing for more dynamic and reusable styling.
-
-- **react-icons** is a library that provides a collection of popular icon sets as React components. It allows developers to easily incorporate scalable vector icons into their React projects, supporting various icon libraries like Font Awesome, Material Icons, and more. The icons can be customized in terms of size, color, and other styling properties directly through props.
+- [**react-icons**](https://react-icons.github.io/react-icons/) is a library that provides a collection of popular icon sets as React components. It allows developers to easily incorporate scalable vector icons into their React projects, supporting various icon libraries like Font Awesome, Material Icons, and more. The icons can be customized in terms of size, color, and other styling properties directly through props.
 
 
 ## <br/> <a name="features">📝 Features</a>
